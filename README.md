@@ -2,7 +2,6 @@
 <h3 align="center">Studying at High School for Le Quy Don High School for the gifted.</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/ap-bipo](https://github.com/ap-bipo)
-
 - 📫 How to reach me **anphuoc.ro2009@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
