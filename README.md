@@ -2,8 +2,14 @@
 <h3 align="center">Studying at High School for Le Quy Don High School for the gifted.</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/ap-bipo](https://github.com/ap-bipo)
-- 🚀 Check out my public project, Bogamis: [https://bogamis.netlify.app/](https://bogamis.netlify.app/)
 - 📫 How to reach me **anphuoc.ro2009@gmail.com**
+
+<h3 align="left">Fully Uploaded Projects:</h3>
+<p align="left">
+  <a href="https://bogamis.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/HTML%20Project-BOGAMIS-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=555555" alt="Bogamis" />
+  </a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
