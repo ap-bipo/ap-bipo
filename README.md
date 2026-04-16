@@ -9,8 +9,8 @@
   <a href="https://bogamis.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/HTML%20Project-BOGAMIS-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=555555" alt="Bogamis" />
   </a>
-  <a href="https://aplibrary.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/HTML%20Project-APLIBRARY-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=555555" alt="APLIBRARY" />
+  <a href="https://libromind.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/HTML%20Project-LIBROMIND-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=555555" alt="APLIBRARY" />
   </a>
 </p>
 
